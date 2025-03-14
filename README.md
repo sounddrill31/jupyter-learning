@@ -12,3 +12,4 @@ Jupyter Notebooks experiments
 - Day 7:
     - Sentiment Analysis
     - Support Vector Machine (SVM) Algorithm
+    - train_test_split() Function
