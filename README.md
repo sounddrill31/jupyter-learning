@@ -9,3 +9,6 @@ Jupyter Notebooks experiments
 - Day 6:
     - Regression(Decision Trees, Random Forest)
     - NLP
+- Day 7:
+    - Sentiment Analysis
+    - Support Vector Machine (SVM) Algorithm
