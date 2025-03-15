@@ -15,3 +15,4 @@ Jupyter Notebooks experiments
     - train_test_split() Function
 - Day 8:
     - Topic Modeling Using Latent Dirichlet Allocation (LDA)
+    - Bag of Words(Bow)
