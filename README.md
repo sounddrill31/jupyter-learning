@@ -13,3 +13,5 @@ Jupyter Notebooks experiments
     - Sentiment Analysis
     - Support Vector Machine (SVM) Algorithm
     - train_test_split() Function
+- Day 8:
+    - Topic Modeling Using Latent Dirichlet Allocation (LDA)
